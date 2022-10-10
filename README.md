@@ -2,6 +2,8 @@
 
 ![preview](./.github/preview.png)
 
+[Clique aqui para acessar](https://lucas-avila-carvalho.github.io/Pokedex/)
+
 ## Tecnologias
 
 - HTML
